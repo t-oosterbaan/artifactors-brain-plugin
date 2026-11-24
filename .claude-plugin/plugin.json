@@ -1,0 +1,20 @@
+{
+  "name": "artifactors-brain",
+  "displayName": "Artifactors Brain",
+  "version": "1.0.0",
+  "description": "Get started with Artifactors Brain, your company's shared knowledge base, from a conversation: create an account, connect, answer a short interview, save your first note and invite colleagues.",
+  "author": {
+    "name": "Artifactors",
+    "url": "https://artifactors.com"
+  },
+  "homepage": "https://brain.artifactors.com/docs",
+  "privacyPolicyUrl": "https://brain.artifactors.com/privacy",
+  "license": "MIT",
+  "keywords": [
+    "knowledge base",
+    "notes",
+    "company knowledge",
+    "onboarding",
+    "processes"
+  ]
+}
