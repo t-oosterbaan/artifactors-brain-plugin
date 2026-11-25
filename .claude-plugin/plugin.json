@@ -1,8 +1,8 @@
 {
   "name": "artifactors-brain",
   "displayName": "Artifactors Brain",
-  "version": "1.0.0",
-  "description": "Get started with Artifactors Brain, your company's shared knowledge base, from a conversation: create an account, connect, answer a short interview, save your first note and invite colleagues.",
+  "version": "1.0.1",
+  "description": "Get started with Artifactors Brain, your company's shared knowledge base, from a conversation: create an account, connect, answer a short interview, save your first note and invite colleagues. The connector's tools can also send emails (account and invitation), delete notes to the trash, and change members, roles and space access; see the README.",
   "author": {
     "name": "Artifactors",
     "url": "https://artifactors.com"
